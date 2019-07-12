@@ -14,7 +14,7 @@ module.exports = {
 ```
 In command line when compiling, it wll show like:
 
-<img src='screen_shot.png' width='400'>
+<img src='screen_shot.png' width='400'/>
 
 
 ## Options
