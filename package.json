@@ -1,6 +1,6 @@
 {
   "name": "webpack-package-manager",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "a webpack plugin for checking packages' version, concatenating package.json files and auto updating",
   "main": "lib/index.js",
   "scripts": {
