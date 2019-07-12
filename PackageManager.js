@@ -4,7 +4,7 @@ module.exports = class PackageManager{
         this.options = {
             onlyShowAvailable: false,   //only show packages that can be updated
             autoUpdate:false,           //automatically update available packages
-            showReleaseTime:false,      //show release time of latest version
+            showReleaseTime:true,      //show release time of latest version
             updateFrom: void 0,         //Array: another package.json files, will choose newest version from them
             ...options
         };
