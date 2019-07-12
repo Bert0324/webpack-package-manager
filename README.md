@@ -2,7 +2,9 @@
 
 ## Install
 
-`npm i --save-dev webpack-package-manager`
+```
+npm i --save-dev webpack-package-manager
+```
 
 ## Start
 
