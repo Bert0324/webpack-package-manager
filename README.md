@@ -12,7 +12,19 @@ module.exports = {
     plugins:[new PackageUpdatePlugin()]
 }
 ```
+In command line when compiling, it wll show like:
 
+```
+Package Update Remind: green means it can be updated safely, red means may have problems with compatibility, white means no new version detect
+ redux: ^4.0.0                                    --->     <span style="color:green">4.0.1 released on</span> 
+ @material-ui/core: ^4.1.3                        --->     4.1.3 released on 
+ react-router-dom: ^5.0.1                         --->     5.0.1 released on 
+ react-helmet: ^5.2.1                             --->     5.2.1 released on 
+ redux-thunk: ^2.3.0                              --->     2.3.0 released on 
+ @material-ui/icons: ^4.2.1                       --->     4.2.1 released on 
+ css-loader: 2.1.1                                --->     <span style="color:red"> 3.0.0 released on</span> 
+Package Update Remind End
+```
 ## Options
 
 ```JavaScript
