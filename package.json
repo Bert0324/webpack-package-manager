@@ -1,0 +1,14 @@
+{
+  "name": "webpack-package-manager",
+  "version": "1.0.0",
+  "description": "webpack plugin for managing update npm packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "Bert",
+  "license": "ISC"
+}
