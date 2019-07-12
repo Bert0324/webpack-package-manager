@@ -31,6 +31,7 @@ new PackageUpdatePlugin({
     updateFrom:['<other path>/package.json']    
     //an array, the paths that other package.json files you want to combine, if set this options, 
     //the latest version showing will be the highest version among all files instead of npm latest
+    //default is undefined
 })
 ```
 
