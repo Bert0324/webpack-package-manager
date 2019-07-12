@@ -1,6 +1,6 @@
 {
   "name": "webpack-package-manager",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "a webpack plugin for checking packages' version, concatenating package.json files and auto updating",
   "main": "lib/index.js",
   "scripts": {
@@ -15,7 +15,7 @@
   ],
   "homepage": "https://github.com/Bert0324/webpack-package-manager#readme",
   "author": "Bert",
-  "license": "SEE LICENSE IN https://github.com/Bert0324/webpack-package-manager/blob/master/LICENSE",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/Bert0324/webpack-package-manager"
