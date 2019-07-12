@@ -1,14 +1,26 @@
 {
   "name": "webpack-package-manager",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "webpack plugin for managing update npm packages",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "webpack"
+    "webpack",
+    "package",
+    "manager",
+    "npm",
+    "modules"
   ],
+  "homepage": "https://github.com/Bert0324/webpack-package-manager#readme",
   "author": "Bert",
-  "license": "ISC"
+  "license": "SEE LICENSE IN https://github.com/Bert0324/webpack-package-manager/blob/master/LICENSE",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bert0324/webpack-package-manager"
+  },
+  "dependencies": {
+    "package-json": "^6.4.0"
+  }
 }
