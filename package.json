@@ -1,7 +1,7 @@
 {
   "name": "webpack-package-manager",
-  "version": "1.0.3",
-  "description": "webpack plugin for managing update npm packages",
+  "version": "1.0.4",
+  "description": "a webpack plugin for checking packages' version, concatenating package.json files and auto updating",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
