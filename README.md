@@ -1,5 +1,7 @@
 # A webpack plugin can check package versions, combine package.json, auto update.
 
+It is an interesting tiny tool to see whether your packages is outdated, or combine several package.json together. Let's start!
+
 ## Install
 
 ```
