@@ -1,7 +1,5 @@
 # A webpack plugin can check package versions, combine package.json, auto update.
 
-Let's start!
-
 ## Install
 
 ```
@@ -39,4 +37,4 @@ new PackageUpdatePlugin({
 })
 ```
 
-If you have issues or want to make some suggestions, welcome to contact me. It is so kind if you can give a star! 
+If you have issues or want to make some suggestions, welcome to contact me. It is so kind if you can give a star :start:! 
